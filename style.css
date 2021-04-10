@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+.big{
+    background-color: white;
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+img{
+    height: 350px;
+    width: 500px;
+    position: relative;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+i{
+    font-size: 30px;
+}
+.rig{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    top: 8px;
+    }
+.html{  
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+    }
+.imag{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 60px;
+    padding-top: 10px;
+}
+.dot{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 450px;
+    top: 25px;
+}
+.heart{
+    position: absolute;
+    padding-left: 7px;
+    top: 440px;
+    left: 5px;
+}
+.book{
+    position: absolute;
+    padding-left: 5px;
+    top: 440px;
+    left: 450px;
+}
+.lipsum{
+    position: absolute;
+    top: 480px;
+    left: 5px;
+}
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
